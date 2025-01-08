@@ -114,6 +114,21 @@
       }
     },
     {
+      "name": "Other Object",
+      "scope": "variable.other.object",
+      "settings": {
+        "foreground": "#f6c672",
+      }
+    },
+    {
+      "name": "Other Constant Object",
+      "scope": "variable.other.constant.object",
+      "settings": {
+        "foreground": "#f6c672",
+        "fontStyle": "italic"
+      }
+    },
+    {
       "name": "Class",
       "scope": "entity.name.type.class",
       "settings": {
