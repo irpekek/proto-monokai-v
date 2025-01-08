@@ -1,10 +1,11 @@
 
-# Description
+# Proto Monokai V
 
 Visual Studio Code theme that combines the background aesthetics of Monokai One Dark Vivid with the syntax highlighting colors from the color-blind-vscode-theme.
 
+## Screenshots
 
-
+ ![](screenshot.png)
 
 ## Acknowledgements
 
