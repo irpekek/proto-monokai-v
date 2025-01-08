@@ -674,7 +674,6 @@
     "sideBarTitle.foreground": "#eff0eb",
     "sideBarSectionHeader.background": "#131c28",
     "sideBarSectionHeader.foreground": null,
-    "sideBarSectionHeader.border": "#2C2F3F",
     "gitDecoration.modifiedResourceForeground": "#ccab28",
     "gitDecoration.deletedResourceForeground": "#ff5c57",
     "gitDecoration.untrackedResourceForeground": "#5af78e",
