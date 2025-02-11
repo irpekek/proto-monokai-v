@@ -755,6 +755,8 @@
     "listFilterWidget.background": "#181B29",
     "listFilterWidget.outline": "#4D4E4F",
     "listFilterWidget.noMatchesOutline": "#ff5c57",
-    "git.blame.editorDecorationForeground": "#747D91"
+    "git.blame.editorDecorationForeground": "#747D91",
+    "editorInlayHint.background": "#4a4a4a61",
+    "editorInlayHint.foreground": "#d6d6d6"
   }
 }
