@@ -2,7 +2,7 @@
   "name": "proto-monokai-v",
   "displayName": "Proto Monokai V",
   "description": "Visual Studio Code theme that combines the background aesthetics of Monokai One Dark Vivid with the syntax highlighting colors from the color-blind-vscode-theme.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "SandyLaksanaP",
   "repository": {
     "type": "git",
