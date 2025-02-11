@@ -1,6 +1,6 @@
 {
-	"name": "Proto Monokai V",
-	"tokenColors": [
+  "name": "Proto Monokai V",
+  "tokenColors": [
     {
       "name": "Global settings",
       "settings": {
@@ -117,7 +117,7 @@
       "name": "Other Object",
       "scope": "variable.other.object",
       "settings": {
-        "foreground": "#f6c672",
+        "foreground": "#f6c672"
       }
     },
     {
@@ -544,7 +544,7 @@
     "editor.selectionHighlightBackground": "#40414A",
     "editor.wordHighlightBackground": "#40414A",
     "editor.wordHighlightStrongBackground": "#40414A",
-		"editor.selectionBackground": "#40414A",
+    "editor.selectionBackground": "#40414A",
     "editor.inactiveSelectionBackground": null,
     "editor.findMatchBackground": "#ffbc5880",
     "editor.snippetTabstopHighlightBackground": "#141622",
@@ -555,7 +555,7 @@
     "editorActiveLineNumber.foreground": "#8793ad",
     "editorIndentGuide.background": "#3b465560",
     "editorWhitespace.foreground": "#3B4048",
-		"editorGroup.border": "#131c28",
+    "editorGroup.border": "#131c28",
     "editorGroupHeader.noTabsBackground": null,
     "editorGroupHeader.tabsBorder": null,
     "editorIndentGuide.activeBackground": "#FFFFFF45",
@@ -587,7 +587,7 @@
     "peekViewEditor.background": "#141622",
     "list.activeSelectionBackground": "#5A637550",
     "list.hoverBackground": "#5A637520",
-		"list.activeSelectionForeground": "#ffffff",
+    "list.activeSelectionForeground": "#ffffff",
     "list.dropBackground": "#40414A",
     "list.focusBackground": "#5A637540",
     "list.highlightForeground": "#929faf",
@@ -595,7 +595,7 @@
     "list.inactiveSelectionForeground": "#ffffff",
     "list.warningForeground": "#ffbc58",
     "list.errorForeground": "#ff5c57",
-    "list.focusAndSelectionOutline":"#8b4aece0",
+    "list.focusAndSelectionOutline": "#8b4aece0",
     "statusBar.foreground": "#747D91",
     "terminal.ansiBlack": "#141622",
     "terminal.ansiBlue": "#57c7ff",
@@ -619,7 +619,7 @@
     "tab.border": "#192433",
     "tab.inactiveBackground": "#131c28",
     "tab.activeBackground": "#192433",
-		"tab.unfocusedActiveBorder": null,
+    "tab.unfocusedActiveBorder": null,
     "tab.inactiveForeground": "#585A61",
     "tab.unfocusedActiveForeground": null,
     "tab.unfocusedInactiveForeground": null,
@@ -637,7 +637,7 @@
     "button.background": "#385eda",
     "button.foreground": "#ffffff",
     "button.hoverBackground": "#294bb9",
-    "dropdown.background": "#2d4dde",
+    "dropdown.background": "#131c28",
     "dropdown.border": "#2C2F3F",
     "dropdown.foreground": "#eff0eb",
     "input.background": "#131c28",
@@ -669,8 +669,8 @@
     "activityBarBadge.background": "#a3e6b620",
     "activityBarBadge.foreground": "#FFFF00",
     "sideBar.foreground": null,
-		"sideBar.border": "#131c28",
-		"sideBar.background": "#131c28",
+    "sideBar.border": "#131c28",
+    "sideBar.background": "#131c28",
     "sideBarTitle.foreground": "#eff0eb",
     "sideBarSectionHeader.background": "#131c28",
     "sideBarSectionHeader.foreground": null,
@@ -684,7 +684,7 @@
     "diffEditor.removedTextBackground": "#ff5c5750",
     "diffEditor.removedTextBorder": null,
     "editorWidget.background": "#131c28",
-		"editorWidget.border": null,
+    "editorWidget.border": null,
     "editorSuggestWidget.background": "#131c28",
     "editorSuggestWidget.border": "#131c28",
     "editorSuggestWidget.foreground": "#eff0eb",
@@ -754,6 +754,6 @@
     "menu.separatorBackground": null,
     "listFilterWidget.background": "#181B29",
     "listFilterWidget.outline": "#4D4E4F",
-    "listFilterWidget.noMatchesOutline": "#ff5c57",
+    "listFilterWidget.noMatchesOutline": "#ff5c57"
   }
 }
