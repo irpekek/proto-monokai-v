@@ -754,6 +754,7 @@
     "menu.separatorBackground": null,
     "listFilterWidget.background": "#181B29",
     "listFilterWidget.outline": "#4D4E4F",
-    "listFilterWidget.noMatchesOutline": "#ff5c57"
+    "listFilterWidget.noMatchesOutline": "#ff5c57",
+    "git.blame.editorDecorationForeground": "#747D91"
   }
 }
